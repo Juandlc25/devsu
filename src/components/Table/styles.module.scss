@@ -1,0 +1,29 @@
+.container {
+  border-radius: 4px;
+  background-color: white;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    thead {
+      background-color: #f9fafc;
+      border-radius: 4px;
+      border-bottom: 1px solid #ebedf4;
+      tr,
+      td {
+        padding: 10px;
+      }
+    }
+    tbody {
+      tr {
+        border-bottom: 1px solid #ebedf4;
+      }
+      tr,
+      td {
+        padding: 10px;
+      }
+    }
+  }
+}

@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686871749559" clover="3.2.0">
+  <project timestamp="1686871749559" name="All files">
+    <metrics statements="720" coveredstatements="696" conditionals="97" coveredconditionals="86" methods="38" coveredmethods="35" elements="855" coveredelements="817" complexity="0" loc="720" ncloc="720" packages="15" files="24" classes="24"/>
+    <package name="api">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="database.ts" path="J:\devsu\pichincha\src\api\database.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Button">
+      <metrics statements="27" coveredstatements="27" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="Button.tsx" path="J:\devsu\pichincha\src\components\Button\Button.tsx">
+        <metrics statements="27" coveredstatements="27" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="37" type="stmt"/>
+        <line num="13" count="37" type="stmt"/>
+        <line num="14" count="37" type="stmt"/>
+        <line num="15" count="37" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="37" type="stmt"/>
+        <line num="17" count="37" type="stmt"/>
+        <line num="18" count="37" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="37" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="37" type="stmt"/>
+        <line num="21" count="37" type="stmt"/>
+        <line num="22" count="37" type="stmt"/>
+        <line num="23" count="37" type="stmt"/>
+        <line num="24" count="37" type="stmt"/>
+        <line num="25" count="37" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Header">
+      <metrics statements="14" coveredstatements="14" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Header.tsx" path="J:\devsu\pichincha\src\components\Header\Header.tsx">
+        <metrics statements="14" coveredstatements="14" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="4" count="22" type="stmt"/>
+        <line num="5" count="22" type="stmt"/>
+        <line num="6" count="22" type="stmt"/>
+        <line num="7" count="22" type="stmt"/>
+        <line num="8" count="22" type="stmt"/>
+        <line num="9" count="22" type="stmt"/>
+        <line num="10" count="22" type="stmt"/>
+        <line num="11" count="22" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.InputWithLabel">
+      <metrics statements="41" coveredstatements="41" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="InputWithLabel.tsx" path="J:\devsu\pichincha\src\components\InputWithLabel\InputWithLabel.tsx">
+        <metrics statements="41" coveredstatements="41" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="96" type="stmt"/>
+        <line num="18" count="96" type="stmt"/>
+        <line num="19" count="96" type="stmt"/>
+        <line num="20" count="96" type="stmt"/>
+        <line num="21" count="96" type="stmt"/>
+        <line num="22" count="96" type="stmt"/>
+        <line num="23" count="96" type="stmt"/>
+        <line num="24" count="96" type="stmt"/>
+        <line num="25" count="96" type="stmt"/>
+        <line num="26" count="96" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="96" type="stmt"/>
+        <line num="28" count="96" type="stmt"/>
+        <line num="29" count="96" type="cond" truecount="1" falsecount="0"/>
+        <line num="30" count="96" type="cond" truecount="1" falsecount="0"/>
+        <line num="31" count="96" type="stmt"/>
+        <line num="32" count="96" type="stmt"/>
+        <line num="33" count="96" type="stmt"/>
+        <line num="34" count="96" type="stmt"/>
+        <line num="35" count="96" type="stmt"/>
+        <line num="36" count="96" type="stmt"/>
+        <line num="37" count="96" type="cond" truecount="1" falsecount="0"/>
+        <line num="38" count="96" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Layout">
+      <metrics statements="18" coveredstatements="18" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Layout.tsx" path="J:\devsu\pichincha\src\components\Layout\Layout.tsx">
+        <metrics statements="17" coveredstatements="17" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="21" type="stmt"/>
+        <line num="10" count="21" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="21" type="stmt"/>
+        <line num="13" count="21" type="stmt"/>
+        <line num="14" count="21" type="stmt"/>
+        <line num="15" count="21" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="J:\devsu\pichincha\src\components\Layout\index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Loader">
+      <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Loader.tsx" path="J:\devsu\pichincha\src\components\Loader\Loader.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.RowOptions">
+      <metrics statements="39" coveredstatements="39" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="RowOptions.tsx" path="J:\devsu\pichincha\src\components\RowOptions\RowOptions.tsx">
+        <metrics statements="39" coveredstatements="39" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="13" type="stmt"/>
+        <line num="19" count="13" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="21" count="13" type="stmt"/>
+        <line num="22" count="13" type="stmt"/>
+        <line num="23" count="13" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="13" type="stmt"/>
+        <line num="25" count="13" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="13" type="stmt"/>
+        <line num="35" count="13" type="stmt"/>
+        <line num="36" count="13" type="stmt"/>
+        <line num="37" count="13" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Table">
+      <metrics statements="34" coveredstatements="34" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="Table.tsx" path="J:\devsu\pichincha\src\components\Table\Table.tsx">
+        <metrics statements="33" coveredstatements="33" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="24" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="25" count="9" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="J:\devsu\pichincha\src\components\Table\index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TableHead">
+      <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="TableHead.tsx" path="J:\devsu\pichincha\src\components\TableHead\TableHead.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TableRow">
+      <metrics statements="81" coveredstatements="70" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="2"/>
+      <file name="TableRow.tsx" path="J:\devsu\pichincha\src\components\TableRow\TableRow.tsx">
+        <metrics statements="81" coveredstatements="70" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="19" type="stmt"/>
+        <line num="17" count="19" type="stmt"/>
+        <line num="18" count="19" type="stmt"/>
+        <line num="19" count="19" type="stmt"/>
+        <line num="20" count="19" type="stmt"/>
+        <line num="21" count="19" type="stmt"/>
+        <line num="22" count="19" type="stmt"/>
+        <line num="23" count="19" type="stmt"/>
+        <line num="24" count="19" type="stmt"/>
+        <line num="25" count="19" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="19" type="stmt"/>
+        <line num="37" count="19" type="stmt"/>
+        <line num="38" count="19" type="stmt"/>
+        <line num="39" count="19" type="stmt"/>
+        <line num="40" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="19" type="stmt"/>
+        <line num="46" count="19" type="stmt"/>
+        <line num="47" count="19" type="stmt"/>
+        <line num="48" count="19" type="stmt"/>
+        <line num="49" count="19" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="19" type="stmt"/>
+        <line num="52" count="19" type="stmt"/>
+        <line num="53" count="19" type="stmt"/>
+        <line num="54" count="19" type="stmt"/>
+        <line num="55" count="19" type="stmt"/>
+        <line num="56" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="57" count="61" type="cond" truecount="1" falsecount="0"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="67" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="68" count="61" type="cond" truecount="1" falsecount="0"/>
+        <line num="69" count="9" type="stmt"/>
+        <line num="70" count="9" type="stmt"/>
+        <line num="71" count="9" type="stmt"/>
+        <line num="72" count="9" type="stmt"/>
+        <line num="73" count="9" type="stmt"/>
+        <line num="74" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="75" count="51" type="stmt"/>
+        <line num="76" count="19" type="stmt"/>
+        <line num="77" count="19" type="stmt"/>
+        <line num="78" count="19" type="stmt"/>
+        <line num="79" count="19" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="161" coveredstatements="153" conditionals="30" coveredconditionals="30" methods="9" coveredmethods="9"/>
+      <file name="useForm.tsx" path="J:\devsu\pichincha\src\hooks\useForm.tsx">
+        <metrics statements="23" coveredstatements="23" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="4" count="21" type="stmt"/>
+        <line num="5" count="21" type="stmt"/>
+        <line num="6" count="21" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="12" type="stmt"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="11" count="12" type="stmt"/>
+        <line num="12" count="21" type="stmt"/>
+        <line num="13" count="21" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="21" type="stmt"/>
+        <line num="17" count="21" type="stmt"/>
+        <line num="18" count="21" type="stmt"/>
+        <line num="19" count="21" type="stmt"/>
+        <line num="20" count="21" type="stmt"/>
+        <line num="21" count="21" type="stmt"/>
+        <line num="22" count="21" type="stmt"/>
+        <line num="23" count="21" type="stmt"/>
+      </file>
+      <file name="useFormActions.tsx" path="J:\devsu\pichincha\src\hooks\useFormActions.tsx">
+        <metrics statements="65" coveredstatements="57" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="19" type="stmt"/>
+        <line num="14" count="19" type="stmt"/>
+        <line num="15" count="19" type="stmt"/>
+        <line num="16" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="19" type="stmt"/>
+        <line num="37" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="19" type="stmt"/>
+        <line num="58" count="19" type="stmt"/>
+        <line num="59" count="19" type="stmt"/>
+        <line num="60" count="19" type="stmt"/>
+        <line num="61" count="19" type="stmt"/>
+        <line num="62" count="19" type="stmt"/>
+        <line num="63" count="19" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+      <file name="useFormValidation.tsx" path="J:\devsu\pichincha\src\hooks\useFormValidation.tsx">
+        <metrics statements="44" coveredstatements="44" conditionals="21" coveredconditionals="21" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="19" type="stmt"/>
+        <line num="8" count="19" type="stmt"/>
+        <line num="9" count="19" type="stmt"/>
+        <line num="10" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="19" type="stmt"/>
+        <line num="14" count="19" type="stmt"/>
+        <line num="15" count="19" type="stmt"/>
+        <line num="16" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="18" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="18" type="stmt"/>
+        <line num="20" count="19" type="stmt"/>
+        <line num="21" count="19" type="stmt"/>
+        <line num="22" count="19" type="stmt"/>
+        <line num="23" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="18" type="cond" truecount="1" falsecount="0"/>
+        <line num="25" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="18" type="stmt"/>
+        <line num="27" count="19" type="stmt"/>
+        <line num="28" count="19" type="stmt"/>
+        <line num="29" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="30" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="31" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="32" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="34" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="36" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="37" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="38" count="14" type="cond" truecount="1" falsecount="0"/>
+        <line num="39" count="14" type="cond" truecount="1" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="19" type="stmt"/>
+        <line num="42" count="19" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+      <file name="useGetProducts.tsx" path="J:\devsu\pichincha\src\hooks\useGetProducts.tsx">
+        <metrics statements="29" coveredstatements="29" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.error-page">
+      <metrics statements="11" coveredstatements="11" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="ErrorPage.tsx" path="J:\devsu\pichincha\src\pages\error-page\ErrorPage.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.form">
+      <metrics statements="121" coveredstatements="120" conditionals="15" coveredconditionals="7" methods="7" coveredmethods="6"/>
+      <file name="Form.tsx" path="J:\devsu\pichincha\src\pages\form\Form.tsx">
+        <metrics statements="121" coveredstatements="120" conditionals="15" coveredconditionals="7" methods="7" coveredmethods="6"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="15" type="stmt"/>
+        <line num="16" count="15" type="stmt"/>
+        <line num="17" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="18" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="19" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="20" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="21" count="15" type="stmt"/>
+        <line num="22" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="25" count="15" type="stmt"/>
+        <line num="26" count="15" type="stmt"/>
+        <line num="27" count="15" type="stmt"/>
+        <line num="28" count="15" type="stmt"/>
+        <line num="29" count="15" type="stmt"/>
+        <line num="30" count="15" type="stmt"/>
+        <line num="31" count="15" type="stmt"/>
+        <line num="32" count="15" type="stmt"/>
+        <line num="33" count="15" type="stmt"/>
+        <line num="34" count="15" type="stmt"/>
+        <line num="35" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="38" count="15" type="stmt"/>
+        <line num="39" count="15" type="stmt"/>
+        <line num="40" count="15" type="stmt"/>
+        <line num="41" count="15" type="stmt"/>
+        <line num="42" count="15" type="stmt"/>
+        <line num="43" count="15" type="stmt"/>
+        <line num="44" count="15" type="stmt"/>
+        <line num="45" count="15" type="stmt"/>
+        <line num="46" count="15" type="stmt"/>
+        <line num="47" count="15" type="stmt"/>
+        <line num="48" count="15" type="stmt"/>
+        <line num="49" count="15" type="stmt"/>
+        <line num="50" count="15" type="stmt"/>
+        <line num="51" count="15" type="stmt"/>
+        <line num="52" count="15" type="stmt"/>
+        <line num="53" count="15" type="stmt"/>
+        <line num="54" count="15" type="stmt"/>
+        <line num="55" count="15" type="stmt"/>
+        <line num="56" count="15" type="stmt"/>
+        <line num="57" count="15" type="stmt"/>
+        <line num="58" count="15" type="stmt"/>
+        <line num="59" count="15" type="stmt"/>
+        <line num="60" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="61" count="15" type="stmt"/>
+        <line num="62" count="15" type="stmt"/>
+        <line num="63" count="15" type="stmt"/>
+        <line num="64" count="15" type="stmt"/>
+        <line num="65" count="15" type="stmt"/>
+        <line num="66" count="15" type="stmt"/>
+        <line num="67" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="68" count="15" type="stmt"/>
+        <line num="69" count="15" type="stmt"/>
+        <line num="70" count="15" type="stmt"/>
+        <line num="71" count="15" type="stmt"/>
+        <line num="72" count="15" type="stmt"/>
+        <line num="73" count="15" type="stmt"/>
+        <line num="74" count="15" type="stmt"/>
+        <line num="75" count="15" type="stmt"/>
+        <line num="76" count="15" type="stmt"/>
+        <line num="77" count="15" type="stmt"/>
+        <line num="78" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="79" count="15" type="stmt"/>
+        <line num="80" count="15" type="stmt"/>
+        <line num="81" count="15" type="stmt"/>
+        <line num="82" count="15" type="stmt"/>
+        <line num="83" count="15" type="stmt"/>
+        <line num="84" count="15" type="stmt"/>
+        <line num="85" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="86" count="15" type="stmt"/>
+        <line num="87" count="15" type="stmt"/>
+        <line num="88" count="15" type="stmt"/>
+        <line num="89" count="15" type="stmt"/>
+        <line num="90" count="15" type="stmt"/>
+        <line num="91" count="15" type="stmt"/>
+        <line num="92" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="93" count="15" type="stmt"/>
+        <line num="94" count="15" type="stmt"/>
+        <line num="95" count="15" type="stmt"/>
+        <line num="96" count="15" type="stmt"/>
+        <line num="97" count="15" type="stmt"/>
+        <line num="98" count="15" type="stmt"/>
+        <line num="99" count="15" type="stmt"/>
+        <line num="100" count="15" type="stmt"/>
+        <line num="101" count="15" type="stmt"/>
+        <line num="102" count="15" type="stmt"/>
+        <line num="103" count="15" type="stmt"/>
+        <line num="104" count="15" type="stmt"/>
+        <line num="105" count="15" type="stmt"/>
+        <line num="106" count="15" type="stmt"/>
+        <line num="107" count="15" type="stmt"/>
+        <line num="108" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="109" count="15" type="cond" truecount="0" falsecount="1"/>
+        <line num="110" count="15" type="stmt"/>
+        <line num="111" count="15" type="stmt"/>
+        <line num="112" count="15" type="stmt"/>
+        <line num="113" count="15" type="stmt"/>
+        <line num="114" count="15" type="stmt"/>
+        <line num="115" count="15" type="stmt"/>
+        <line num="116" count="15" type="stmt"/>
+        <line num="117" count="15" type="stmt"/>
+        <line num="118" count="15" type="stmt"/>
+        <line num="119" count="15" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="121" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.root">
+      <metrics statements="89" coveredstatements="86" conditionals="7" coveredconditionals="6" methods="4" coveredmethods="3"/>
+      <file name="Root.tsx" path="J:\devsu\pichincha\src\pages\root\Root.tsx">
+        <metrics statements="89" coveredstatements="86" conditionals="7" coveredconditionals="6" methods="4" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="33" count="0" type="cond" truecount="1" falsecount="0"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+        <line num="40" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="58" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="66" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+        <line num="73" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="74" count="3" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="77" count="3" type="stmt"/>
+        <line num="78" count="3" type="stmt"/>
+        <line num="79" count="3" type="stmt"/>
+        <line num="80" count="3" type="stmt"/>
+        <line num="81" count="3" type="stmt"/>
+        <line num="82" count="3" type="stmt"/>
+        <line num="83" count="3" type="stmt"/>
+        <line num="84" count="4" type="stmt"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="86" count="4" type="stmt"/>
+        <line num="87" count="4" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="57" coveredstatements="56" conditionals="16" coveredconditionals="14" methods="5" coveredmethods="5"/>
+      <file name="convertDate.ts" path="J:\devsu\pichincha\src\utils\convertDate.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="7" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="formatDate.ts" path="J:\devsu\pichincha\src\utils\formatDate.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="31" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="31" type="stmt"/>
+        <line num="3" count="31" type="stmt"/>
+        <line num="4" count="31" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="incrementYear.ts" path="J:\devsu\pichincha\src\utils\incrementYear.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+      </file>
+      <file name="isValidUrl.ts" path="J:\devsu\pichincha\src\utils\isValidUrl.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="2" count="64" type="stmt"/>
+        <line num="3" count="64" type="stmt"/>
+        <line num="4" count="64" type="stmt"/>
+        <line num="5" count="64" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="61" type="stmt"/>
+        <line num="7" count="61" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="16" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="64" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="listenForOutsideClicks.tsx" path="J:\devsu\pichincha\src\utils\listenForOutsideClicks.tsx">
+        <metrics statements="22" coveredstatements="21" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="9" count="17" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="11" type="cond" truecount="0" falsecount="1"/>
+        <line num="11" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="11" type="stmt"/>
+        <line num="22" count="17" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

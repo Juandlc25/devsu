@@ -1,0 +1,36 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  padding: 80px 50px;
+  box-sizing: border-box;
+  width: 100%;
+  gap: 10px;
+}
+.actions {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  input {
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    background-color: white;
+    padding: 10px;
+    outline: none;
+  }
+}
+.footer {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  span {
+    font-weight: bold;
+  }
+  select {
+    padding: 5px;
+  }
+}
